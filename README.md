@@ -1,7 +1,7 @@
 # MacSweeper_Release
 MacSweeper is a Ram Cleaner for Mac's & Macbooks
 
-##Download .dmg
+## Download .dmg
 
 https://github.com/barron9/MacSweeper_Release/releases
 
